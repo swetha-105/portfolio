@@ -17,7 +17,7 @@ export const projects = [
         title: "Digital Image Forgery Detection",
         description: "Worked in a team to build a digital image forgery detection system using deep learning. Contributed to dataset preparation, project documentation, and testing activities. Gained understanding of model workflow (DenseNet, Xception).",
         tech: ["Python", "CNN", "HTML", "CSS", "JS"],
-        image: "images/DigitalImageForgeryDetection.png",
+        image: "DigitalImageForgeryDetection.png",
         link: "#",
     },
 ];
