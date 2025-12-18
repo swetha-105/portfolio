@@ -10,7 +10,7 @@ export const projects = [
         title: "Netflix Data Analysis",
         description: "Analyzed Netflix movies and TV shows dataset using SQL queries to retrieve, filter, and explore key information. Extracted meaningful insights from data and strengthened hands-on experience with MySQL.",
         tech: ["SQL", "MySQL"],
-        image: "",
+        image: "NetflixMoviesDAtaAnalysis.png",
         link: "https://github.com/swetha-105/netflix_mysql_project",
     },
     {
