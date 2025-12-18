@@ -3,14 +3,14 @@ export const projects = [
         title: "Banking Management System",
         description: "Built a standalone application with features including account creation, login, deposit, withdrawal, and balance checking. Implemented JDBC for secure and efficient connectivity between Java and MySQL. Gained strong hands-on experience in Core Java and real-time database operations.",
         tech: ["Java", "JDBC", "MySQL"],
-        image: "images/BankingManagementSystem.png",
+        image: "BankingManagementSystem.png",
         link: "https://swetha-105.github.io/BankingApp/",
     },
     {
         title: "Netflix Data Analysis",
         description: "Analyzed Netflix movies and TV shows dataset using SQL queries to retrieve, filter, and explore key information. Extracted meaningful insights from data and strengthened hands-on experience with MySQL.",
         tech: ["SQL", "MySQL"],
-        image: "images/NetflixMoviesDAtaAnalysis.png",
+        image: "",
         link: "https://github.com/swetha-105/netflix_mysql_project",
     },
     {
